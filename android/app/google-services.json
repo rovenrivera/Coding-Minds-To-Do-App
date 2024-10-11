@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "513384264398",
+    "project_id": "coding-minds-bootstrap-7698e",
+    "storage_bucket": "coding-minds-bootstrap-7698e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513384264398:android:312f4bf0e9c5f8c927169f",
+        "android_client_info": {
+          "package_name": "com.bootstrap.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZuYw9io-O2kBiZEkYeyesvJsSzyCeCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513384264398:android:dd83883d1191772b27169f",
+        "android_client_info": {
+          "package_name": "com.example.CodingMinds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZuYw9io-O2kBiZEkYeyesvJsSzyCeCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
