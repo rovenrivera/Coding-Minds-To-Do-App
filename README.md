@@ -1,3 +1,3 @@
-# coding_minds_bootstrap
+# Instructor Application Bootstrap - Roven James Rivera
 
-A new Flutter project.
+Flutter To Do App created for the Coding Minds Instructor Application Bootstrap.
